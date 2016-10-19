@@ -1,0 +1,3 @@
+io\spring\cloud\samples\commerce\priceservice\Application.class
+io\spring\cloud\samples\commerce\priceservice\repositories\PriceConfig.class
+io\spring\cloud\samples\commerce\priceservice\controllers\PriceController.class

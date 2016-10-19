@@ -1,0 +1,4 @@
+io\spring\cloud\samples\commerce\itemservice\repositories\ItemRepository.class
+io\spring\cloud\samples\commerce\itemservice\Application.class
+io\spring\cloud\samples\commerce\itemservice\domain\Item.class
+io\spring\cloud\samples\commerce\itemservice\controllers\ItemController.class

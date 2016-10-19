@@ -1,0 +1,4 @@
+io\spring\cloud\samples\commerce\ui\Application.class
+io\spring\cloud\samples\commerce\ui\services\CommerceService.class
+io\spring\cloud\samples\commerce\ui\controllers\UiController.class
+io\spring\cloud\samples\commerce\ui\services\Item.class
